@@ -21,7 +21,7 @@ timezone:
 
 title: "구구리의 코딩"GuGuCoding                          # the main title
 
-tagline: '구구리의 '   # it will display as the sub-title
+tagline: '구구리의코딩공부'   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
