@@ -1,13 +1,8 @@
----
-
-title: Test Markdown
-date: 2023-01-08 HH:MM:SS  19:54:03
-categories: [Test1, Test2]
-tags: [TAG]     # TAG names should always be lowercase
-
----
-
-
+"attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+   
     "# 구구리의 코딩\n",
     "마크다운 작성 테스트 입니다\n",
     "\n",
