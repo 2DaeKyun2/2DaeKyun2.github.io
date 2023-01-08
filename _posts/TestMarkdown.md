@@ -28,12 +28,7 @@ tags: [TAG]     # TAG names should always be lowercase
     "|     |예전검사땐 INFJ 이였지만 전 직장에서 일하면서 바뀐듯합니다??|\n"
    ]
   },
-  {
-   "attachments": {},
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": []
-  },
+  
   {
    "attachments": {},
    "cell_type": "markdown",
